@@ -8,7 +8,9 @@ import { type ThemeProviderProps } from "next-themes";
 // <ThemeProvider cooper ="very cool" defaultState/>
 export function ThemeProvider({ children, ...props}: ThemeProviderProps) {
   return (
-    <NextThemeProvider {...props}>
+    <NextThemeProvider 
+    forcedTheme="dark" 
+    {...props}>
       {children}
     </NextThemeProvider>
   );
