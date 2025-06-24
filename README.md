@@ -1,10 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🎮 Pokémon Finder
+A fast and responsive Pokémon search application built with Next.js, Tailwind CSS, and JavaScript. Search for your favorite Pokémon, view their details, and explore their stats in a clean UI.
 
+(Add a screenshot or GIF here later!)
 
+🌟 Features
+Search Pokémon by name or ID.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Detailed Pokémon info: Stats, abilities, types, and sprites.
 
+Responsive Design: Works on mobile, tablet, and desktop.
 
+Fast & Lightweight: Optimized with Next.js for performance.
 
-# pokemon-finder
-# pokemon-finder
+🛠 Technologies Used
+Next.js (React framework)
+
+Tailwind CSS (Utility-first styling)
+
+PokéAPI (pokeapi.co)
+
+JavaScript/ES6+
