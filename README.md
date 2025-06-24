@@ -20,3 +20,12 @@ Tailwind CSS (Utility-first styling)
 PokéAPI (pokeapi.co)
 
 JavaScript/ES6+
+
+🌐 API Used
+This project uses the free PokéAPI to fetch Pokémon data.
+
+🚀 DEMO
+
+![Demo Screenshot](/pokemonfinder_1.png)
+
+![Demo Screenshot](/pokemonresult.png)
